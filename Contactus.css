@@ -1,0 +1,56 @@
+.aboutbox2{
+    background-color: white;
+    }
+    .line2{
+        display: table-cell;
+        height: 100%;
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        display: table-cell;
+        vertical-align: middle;
+        /* width: 100%; */
+    }
+    .flex-container2{
+    
+        display: flex;
+        background-color:rgb(212, 230, 244);
+    }
+    .abouth2{
+        display: flex;
+        padding: 10px;
+        margin: 15px;
+    }
+    .flex02{
+        padding: 20px;
+          margin: 20px;
+      }
+      .flex1aa2{
+        
+          background-image: url("./Contactus.jpg");
+          padding: 40px;
+          margin: 20px;
+          flex : 30%;
+          height:450px;
+          background-size: cover;
+          align-self: flex-end;
+          text-align: end;
+          border-radius: 5px;
+      }
+      .flex2aa2{
+          padding: 30px;
+          margin: 20px;
+          flex : 60%;
+          height:450px;
+          background-size: cover;
+          align-self: flex-end;
+          text-align: end;
+          border-radius: 5px;
+          /* background-color: rgb(207, 211, 105); */
+          background-color: whitesmoke;
+    
+      }
+      .fpa2{
+        text-align:left;  }
